@@ -1,7 +1,7 @@
 🛒 Shopping Cart (Redux Toolkit)
 
 A simple shopping cart application built with React and Redux Toolkit.
-This project demonstrates how to manage global state, add/remove items from the cart, and calculate totals using Redux Toolkit’s createSlice and configureStore.
+This project demonstrates how to manage global state and calculate totals using Redux Toolkit’s createSlice and configureStore.
 
 🚀 Features
 
