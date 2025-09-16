@@ -1,12 +1,32 @@
-# React + Vite
+🛒 Shopping Cart (Redux Toolkit)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple shopping cart application built with React and Redux Toolkit.
+This project demonstrates how to manage global state, add/remove items from the cart, and calculate totals using Redux Toolkit’s createSlice and configureStore.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Add products to the cart
 
-## Expanding the ESLint configuration
+Remove products from the cart
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Display total cart items and price
+
+Centralized state management with Redux Toolkit
+
+Clean and scalable folder structure
+
+🛠️ Tech Stack
+
+React – UI library
+
+Redux Toolkit – State management
+
+React-Redux – Integration with React
+
+🎯 Usage
+
+Browse the product list
+
+Click Add to Cart to add products
+
+See the updated total instantly
